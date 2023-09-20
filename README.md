@@ -1,5 +1,10 @@
-#### Hi there 👋
+#### About me 👋
 
+#### Weather in my city <Đà Nẵng city> 👋
+
+{{ template "hourly-table" $todayWeather.HourlyWeathers }}
+{{ template "daily-table" .Weathers }}
+{{ formatTime .UpdatedAt }}
 <!--
 **mthlong/mthlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
