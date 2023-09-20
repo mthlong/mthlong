@@ -20,6 +20,6 @@
 
 <div align="right">
 
-*Updated at: {{formatTime .UpdatedAt}} *
+Updated at: {{formatTime .UpdatedAt}} 
 
 </div>
