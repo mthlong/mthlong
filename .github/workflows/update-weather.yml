@@ -16,7 +16,7 @@ jobs:
           days: 7
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
           template-file: 'weathers.md.tpl'
-          out-file: 'README.md.tpl'
+          out-file: 'README.md'
       - name: Commit
         run: |
           if git diff --exit-code; then
