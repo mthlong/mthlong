@@ -1,6 +1,14 @@
+# About me
+
+- Name: Long
+- Email: [mt.hlong.2000@gmail.com](mailto:mt.hlong.2000@gmail.com)
+- Flutter engineer
+
+## Weather in my city <Đà Nẵng city> 👋
+
 {{ with $todayWeather := index .Weathers 0 }}
 
-`{{ $todayWeather.City }}, {{$todayWeather.Country }} - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
+`{{ $todayWeather.City }}, VietNam - {{ formatDate $todayWeather.StartTime $todayWeather.Timezone }}`
 
 <img src="{{ $todayWeather.Icon}}"/>
 
@@ -12,6 +20,6 @@
 
 <div align="right">
 
-*Updated at: {{formatTime .UpdatedAt}} - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: {{formatTime .UpdatedAt}} *
 
 </div>
