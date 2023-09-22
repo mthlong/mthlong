@@ -34,13 +34,13 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Wind</th>
-        <td>1.1 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>1.1 kph</td><td>1.1 kph</td><td>1.1 kph</td><td>1.1 kph</td><td>0.7 kph</td><td>2.5 kph</td><td>4 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>5 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>3.6 kph</td><td>0.7 kph</td>
+        <td>1.1 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>1.1 kph</td><td>1.1 kph</td><td>1.1 kph</td><td>1.1 kph</td><td>0.7 kph</td><td>2.5 kph</td><td>4 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5.8 kph</td><td>6.5 kph</td><td>7.6 kph</td><td>7.2 kph</td><td>5 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>1.4 kph</td><td>1.4 kph</td><td>1.1 kph</td><td>3.6 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-Updated at: 2023-09-22T15:24:51Z 
+Updated at: 2023-09-22T16:31:14Z 
 
 </div>
