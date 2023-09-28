@@ -34,13 +34,13 @@ Moderate rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.9 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>1.1 kph</td><td>1.4 kph</td><td>1.8 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>1.8 kph</td><td>1.8 kph</td>
+        <td>2.9 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>2.2 kph</td><td>1.1 kph</td><td>1.4 kph</td><td>1.8 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>2.9 kph</td><td>2.2 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>1.4 kph</td><td>1.8 kph</td><td>1.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-Updated at: 2023-09-28T08:29:19Z 
+Updated at: 2023-09-28T09:23:50Z 
 
 </div>
