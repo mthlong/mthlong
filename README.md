@@ -34,13 +34,13 @@ Heavy rain
     </tr>
     <tr>
         <th>Wind</th>
-        <td>1.1 kph</td><td>0.7 kph</td><td>1.1 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>3.6 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>0.7 kph</td><td>1.1 kph</td><td>1.1 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.5 kph</td>
+        <td>1.1 kph</td><td>0.7 kph</td><td>1.1 kph</td><td>1.8 kph</td><td>1.8 kph</td><td>2.9 kph</td><td>3.6 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>0.7 kph</td><td>1.1 kph</td><td>1.1 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>2.5 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-Updated at: 2023-10-06T22:26:45Z 
+Updated at: 2023-10-06T23:22:42Z 
 
 </div>
