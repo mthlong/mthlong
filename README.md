@@ -10,9 +10,9 @@
 
 `Danang, VietNam - 10/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
-Patchy rain possible
+Moderate rain
 
 
 <table>
@@ -41,6 +41,6 @@ Patchy rain possible
 
 <div align="right">
 
-Updated at: 2023-10-10T10:30:46Z 
+Updated at: 2023-10-10T11:22:13Z 
 
 </div>
