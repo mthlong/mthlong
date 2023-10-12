@@ -30,17 +30,17 @@ Moderate rain
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>20.5 °C</td><td>20.4 °C</td><td>20.2 °C</td><td>20.1 °C</td><td>20 °C</td><td>20.1 °C</td><td>20.3 °C</td><td>20.4 °C</td><td>20.6 °C</td><td>20.7 °C</td><td>20.6 °C</td><td>20.9 °C</td><td>21 °C</td><td>21.3 °C</td><td>22 °C</td><td>21.7 °C</td><td>21.6 °C</td><td>20.7 °C</td><td>20 °C</td><td>20.6 °C</td><td>20.7 °C</td><td>20.7 °C</td><td>20.8 °C</td><td>20.8 °C</td>
+        <td>20.5 °C</td><td>20.4 °C</td><td>20.2 °C</td><td>20.1 °C</td><td>20 °C</td><td>20.1 °C</td><td>20.3 °C</td><td>20.4 °C</td><td>20.6 °C</td><td>20.7 °C</td><td>20.6 °C</td><td>20.9 °C</td><td>21 °C</td><td>21.3 °C</td><td>22 °C</td><td>21.7 °C</td><td>21.3 °C</td><td>20.7 °C</td><td>20.1 °C</td><td>20.7 °C</td><td>20.7 °C</td><td>20.7 °C</td><td>20.8 °C</td><td>20.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>5 kph</td><td>5 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>5.4 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>6.1 kph</td>
+        <td>5 kph</td><td>5 kph</td><td>5 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>5 kph</td><td>4.3 kph</td><td>3.2 kph</td><td>3.6 kph</td><td>4.3 kph</td><td>4.7 kph</td><td>5 kph</td><td>6.5 kph</td><td>5.8 kph</td><td>6.8 kph</td><td>6.1 kph</td><td>5.8 kph</td><td>5.8 kph</td><td>6.1 kph</td><td>6.1 kph</td><td>6.5 kph</td><td>6.1 kph</td><td>7.2 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-Updated at: 2023-10-12T15:25:43Z 
+Updated at: 2023-10-12T16:32:09Z 
 
 </div>
