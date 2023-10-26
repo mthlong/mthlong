@@ -10,9 +10,9 @@
 
 `Danang, VietNam - 26/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/>
 
-Patchy rain possible
+Moderate rain
 
 
 <table>
@@ -34,13 +34,13 @@ Patchy rain possible
     </tr>
     <tr>
         <th>Wind</th>
-        <td>2.9 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>3.6 kph</td><td>2.9 kph</td><td>4.7 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>1.8 kph</td>
+        <td>2.9 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>3.2 kph</td><td>2.9 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.9 kph</td><td>4.7 kph</td><td>5 kph</td><td>5.4 kph</td><td>6.5 kph</td><td>6.8 kph</td><td>7.9 kph</td><td>6.8 kph</td><td>5.4 kph</td><td>4.7 kph</td><td>3.2 kph</td><td>2.5 kph</td><td>2.5 kph</td><td>2.2 kph</td><td>1.8 kph</td><td>2.2 kph</td><td>1.8 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-Updated at: 2023-10-25T23:23:21Z 
+Updated at: 2023-10-26T01:27:00Z 
 
 </div>
